@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaikumar8899/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0724-find-pivot-index](https://github.com/udaikumar8899/leetcode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/udaikumar8899/leetcode/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/udaikumar8899/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

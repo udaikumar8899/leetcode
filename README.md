@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/udaikumar8899/leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaikumar8899/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/udaikumar8899/leetcode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/udaikumar8899/leetcode/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/udaikumar8899/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/udaikumar8899/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
